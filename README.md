@@ -1,3 +1,3 @@
 # Basic
-This is a demo Git repository
+This is a demo Git repository \\
 Local-system.
